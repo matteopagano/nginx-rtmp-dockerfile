@@ -23,7 +23,6 @@ How to use
    when you start streaming to the server, it needs to generate the first
    segments and the related playlists.
 
-
 Links
 -----
 
